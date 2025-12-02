@@ -4,21 +4,21 @@
       "tresc": "Stolica polski bylo",
       "odpa": "Krakow",
       "odpb": "Warszawa",
-      "odpb": "Lublin",
+      "odpc": "Lublin",
       "poprawna": 3
     },
       {
       "tresc": "Prezydentem Polski byl",
       "odpa": "Maks",
       "odpb": "Pawel",
-      "odpb": "Andrzej",
+      "odpc": "Andrzej",
       "poprawna": 1
     },
       {
       "tresc": "ile",
       "odpa": "2",
       "odpb": "3",
-      "odpb": "674223425",
+      "odpc": "674223425",
       "poprawna": 3
     }
   ]
